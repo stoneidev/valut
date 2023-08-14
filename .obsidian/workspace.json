@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/육각형 개발자.md",
+                "file": "Note/5.1 비기능 요구사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/육각형 개발자.md",
-                "collapseAll": false,
+                "file": "Note/5.1 비기능 요구사항.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/육각형 개발자.md",
+                "file": "Note/5.1 비기능 요구사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,16 +170,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/육각형 개발자.md"
+                "file": "Note/5.1 비기능 요구사항.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +191,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78e68b05a7b8bca4",
+  "active": "2f9440a2001b2e06",
   "lastOpenFiles": [
+    "Note/Assets/Pasted image 20230815005635.png",
+    "Note/Assets",
     "Book/image/Pasted image 20230815000930.png",
+    "Book/image/Pasted image 20230815005716.png",
+    "Book/Fundamentals of Software Architecture.md",
+    "Note/5.1 비기능 요구사항.md",
+    "Note/5. 아키텍쳐의 2가지 결정요인 기능 요구사항과 품질 속성.md",
+    "Note/5.2 기능 요구 사항.md",
+    "Note/4. 리펙토링의 정의와 테스트의 필요성.md",
+    "Note/4.1 Rework은 Rewrite 보다 많은 시간이 소요된다.md",
+    "Book/image/91V2fclaQPL._AC_UF1000,1000_QL80_.jpg",
+    "Book/Building Evolutionary Architectures.md",
     "Book/육각형 개발자.md",
     "Book/제품의 탄생.md",
-    "Note/4. 리펙토링의 정의와 테스트의 필요성.md",
     "Note/1. 우리가 알고 있는 제텔카스텐은 잘못되었을 수도 있다..md",
     "Project/Offering Registration.md",
     "Project/offering registration/Untitled.md",
