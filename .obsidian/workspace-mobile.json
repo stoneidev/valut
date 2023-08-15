@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "19c382e79eec1cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9110d39698e65bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14d88abb00ddb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temporary/중요일정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc4a8b904d32d12a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "04cec7d898467747",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "761e605454fbd757",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7c3fdb19e4cea961",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "042b03ba1eec4723",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9db3a0eadecb6e9d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "be7dd02417db603e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "temporary/중요일정.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "168e914ee0221158",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "temporary/중요일정.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c47cee2a60627592",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "temporary/중요일정.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b14d88abb00ddb6f",
+  "lastOpenFiles": [
+    "Project/Offering Registration.md",
+    "temporary/중요일정.md",
+    "temporary",
+    "Note/5.1 비기능 요구사항.md",
+    "Note/5.2 기능 요구 사항.md",
+    "Book/image/Pasted image 20230815005716.png",
+    "Note/Assets/Pasted image 20230815005635.png",
+    "Note/4.1 Rework은 Rewrite 보다 많은 시간이 소요된다.md",
+    "Book/image/Pasted image 20230815000930.png",
+    "Note/1. 우리가 알고 있는 제텔카스텐은 잘못되었을 수도 있다..md",
+    "Note/3. 제품팀이 주인의식을 가지고 프로덕트를 만들도록 인셉션 덱을 만든다..md",
+    "Note/5. 아키텍쳐의 2가지 결정요인 기능 요구사항과 품질 속성.md",
+    "Book/육각형 개발자.md",
+    "Note/4. 리펙토링의 정의와 테스트의 필요성.md",
+    "Note/2. 제품팀을 빌딩하는 여러 방법들.md",
+    "Book/제품의 탄생.md",
+    "Project",
+    "Book/image",
+    "Book",
+    "Note",
+    "Note/Assets"
+  ]
+}

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/5.1 비기능 요구사항.md",
+                "file": "temporary/중요일정.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/5.1 비기능 요구사항.md",
+                "file": "temporary/중요일정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/5.1 비기능 요구사항.md",
+                "file": "temporary/중요일정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/5.1 비기능 요구사항.md"
+                "file": "temporary/중요일정.md"
               }
             }
           }
@@ -191,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f9440a2001b2e06",
+  "active": "78e68b05a7b8bca4",
   "lastOpenFiles": [
+    "temporary/중요일정.md",
+    "temporary",
     "Note/Assets/Pasted image 20230815005635.png",
     "Note/Assets",
     "Book/image/Pasted image 20230815000930.png",
