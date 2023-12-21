@@ -1,0 +1,5 @@
+
+Agile
+	[[Kanban]]
+	[[Scrum]]
+	[[SAFe]]
