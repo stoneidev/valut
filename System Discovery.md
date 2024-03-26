@@ -1,0 +1,65 @@
+ - 비즈니스
+	- 주요 기능
+	  S&I를 주요 서비스들을 이용하여 고객의 Properties 의 가치를 올려줄 수 있는 서비스를 제공합니다. 
+	- 주요 기능에 대한 BPM(Optional)
+	  MVP를 기반으로 3가지 과금 모델을 고려하고 있으며, 각 모델의 BM은 이렇게 되어 있습니다.
+	- 수익
+		- 연간 100억
+	- MAU 
+		- 월평균 : 1,000,000 명
+	- 유지보수 비용
+		- 연간 30억
+- 조직
+	- 운영부서
+		- 솔루션개발그룹
+	- 운영인력
+		- 운영형태: 자사 운영 + Partnet
+			- Application Developer : ***
+			- Application Developer : ***
+			- Application Developer : ToSky / ***
+	- 업무프로세스(Optional)
+		- 현재 개발 수행 중으로 운영 업무프로세스는 정해지지 않았습니다. 
+	- 개선 업무 요청수(Change Request) : 2024년 150건
+- 어플리케이션
+	- 어플리케이션의 환경
+		- JAVA : AWS Corretto-17.0.10.8.1 0 17.0.10
+		- Spring-boot : 3.2.3 Release
+		- DB : Postgres SQL
+		- WAS : Spring-boot Embedded Tomcat
+	- 어플리케이션의 구성
+		- Package 구조
+		- 아키텍처 형태
+		- 테스트 커버리지
+		- 시스템 복잡도
+	- 어플리케이션 개발 프로세스
+	- 어플리케이션 관련된 문서
+	- 어플리케이션 로그 관리
+	- 어플리케이션 모니터링/알람
+	- 어플리케이션 인시던드
+	- 어플리케이션 장애 관리 프로세스
+	- 어플리케이션 Tracing
+- 데이터베이스
+	- 데이터베이스 종류, 버젼
+	- 데이터베이스 백업/복구 정책
+	- 데이터베이스 아키텍쳐(이중화 구성 여부 등)
+	- 데이터베이스 변경 절차
+	- 데이터베이스 ERD
+	- 데이터베이스 이력 관리 여부
+- DevOps
+	- CI/CD Tool
+	- CI/CD Process
+	- 소스 리포지토리
+	- Branch 전략
+	- 수행하는 테스트 종류 및 Report
+	- DORA Metric
+	- 배포주기
+	- Artifact Repository(Nexus, ECR...)
+	- Configure / Secret 관리여부
+- 인프라스트럭쳐
+	- Account
+	- VPC
+	- Architecture Diagram
+	- 유지보수 비용
+	- 사용하고 있는 AWS 서비스
+	- 권한 관리 체계
+	- 접근 관리 및 사용하고 있는 보안 서비스
